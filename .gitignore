@@ -5,3 +5,8 @@
 /NetImoveis/.vs/NetImoveis
 /.vs/testeFrontCoodesh/FileContentIndex
 /.vs
+/NetImoveis/NetImoveis.Web/obj
+/NetImoveis/NetImoveis.Web/obj/Debug
+/NetImoveis/NetImoveis.Web/bin
+/NetImoveis/NetImoveis.Web/obj/Debug/net9.0/NetImoveis.Web.AssemblyInfo.cs
+/NetImoveis/NetImoveis.Web/obj/Debug/net9.0/NetImoveis.Web.AssemblyInfoInputs.cache
