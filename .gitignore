@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NetImoveis/.vs/NetImoveis
+/.vs/testeFrontCoodesh/FileContentIndex
+/.vs
